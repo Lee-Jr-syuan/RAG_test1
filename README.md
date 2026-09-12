@@ -1,3 +1,6 @@
+<img width="1418" height="879" alt="螢幕擷取畫面 2026-09-12 192725" src="https://github.com/user-attachments/assets/7d5a9941-823c-47ae-8f8c-d964697602da" />
+<img width="774" height="560" alt="newplot" src="https://github.com/user-attachments/assets/cd4ee3a3-1de7-4ffc-9859-ef4ec44e3c36" />
+
 Second Brain RAG Atlas
 
 一套在 Windows 本機執行的個人知識庫系統。它會將課程 PDF 轉成 Markdown、切割成可檢索的知識片段、寫入 ChromaDB，最後透過 Gradio 提供資料視覺化、提示詞引導與 RAG 對話介面。
